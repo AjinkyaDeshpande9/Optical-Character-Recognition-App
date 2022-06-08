@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083324559527",
+    "project_id": "ocs-app-13a75",
+    "storage_bucket": "ocs-app-13a75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083324559527:android:6747aa50d56faee061ab82",
+        "android_client_info": {
+          "package_name": "com.example.opticalcharacterrecognitionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083324559527-pl6psstrosmoq7eq0rghi2qs1dudtnm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHEw1jbtcsPilpWTuY79WeP2NkIc2CiVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083324559527-pl6psstrosmoq7eq0rghi2qs1dudtnm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
